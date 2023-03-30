@@ -61,7 +61,7 @@ RELAYS:
 
 NOSTRKID.COM:
 
-  - First verification for all potential users and guardians of the platform.  (The method of safely and efficiently doing this is incomplete)
+  - First verification for all potential users and guardians.  (The method of safely and efficiently doing this is incomplete)
 
   - Development of application and management of user experience.
 
