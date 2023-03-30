@@ -23,7 +23,7 @@ No matter the space, there is always the potential liability of children being h
 WHAT IS NOSTR (Notes and Other Stuff Transmitted by Relay)?
 
 Nostr is a censorship resistant,  open source protocol. 
-Users of the protocol post notes (and other stuff) to a decentralized network of relays using a nostr ready app or web based client.  Relays making up the network can be public or private, free or paid.  The many ways to access relays on the network creates opportunities for highly specialized groups to form.  Using nostr in this way, an app could be  designed to allow for social interaction and education specifically geared toward children.
+Users of the protocol post notes (and other stuff) to a decentralized network of relays using a nostr ready app or web based client.  Relays making up the network can be public or private, free or paid.  The many ways to access relays on the network creates opportunities for highly specialized groups to form.  Using nostr in this way, an app could be  designed to allow for social interaction and education specifically geared toward kids.
 
 
 ECOSYSTEM OVERVIEW
